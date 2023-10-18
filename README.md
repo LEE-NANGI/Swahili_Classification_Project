@@ -1,6 +1,7 @@
 # Swahili_Classification_Project
 # SWAHILI AUDIO PREDICTION: AN AUTOMATIC SPEECH RECOGNITION (ASR) PREDICTIVE MODELING PROJECT
 ## Introduction
+![image](Readme_image.jpeg)
 Swahili, originating on the East African coast, acted as a significant lingua franca, influenced by interactions between Bantu communities and Arab traders. Thriving city-states like Kilwa and Zanzibar boosted its prominence. In Automatic Speech Recognition (ASR) projects, Swahili's unique phonetics and dialects are a compelling challenge. ASR aims to transcribe spoken Swahili into text, making it useful for transcription and translation. Successful ASR for Swahili requires tailored models that adapt to the language's nuances. This technology plays a vital role in preserving and promoting Swahili's linguistic and cultural heritage, fostering cross-cultural communication and expanding the language's utility.
 
 ## Problem Statement
